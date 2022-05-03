@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @NilPujolPorta
+- 👀 I’m interested in IT, Backetball, programming and many more things
+- 🌱 I’m currently learning C#, python adn Java
+- 💞️ I’m looking to collaborate on any programs related to what i'm learning
+- 📫 How to reach me: npujol@boscdelacoma.cat
